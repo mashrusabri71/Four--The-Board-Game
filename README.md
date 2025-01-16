@@ -27,15 +27,17 @@ The primary goal is to be the first player to align four of your pieces in a row
 
 ## Screenshots
 ### Main Menu
-![Main Menu](sandbox:/mnt/data/game_screenshots/screenshot_0.png)
+![Main Menu](![Screenshot 2025-01-16 131902](https://github.com/user-attachments/assets/ca87b317-f062-4864-9e7c-4a2aad2b0914)
+)
 - Options to start a new game, load a saved game, view rules, or exit.
 
 ### Gameplay - Initial Moves
-![Gameplay - Early Moves](sandbox:/mnt/data/game_screenshots/screenshot_150.png)
+![Gameplay - Early Moves]()
 - Players begin by placing their pieces on the 4x4 grid.
 
 ### Mid-Game Strategy
-![Gameplay - Mid-Game](sandbox:/mnt/data/game_screenshots/screenshot_300.png)
+![Gameplay - Mid-Game](<img width="951" alt="GAME" src="https://github.com/user-attachments/assets/6aaa97e8-5eba-4d39-83d2-38e509f0e011" />
+)
 - The board begins to fill as players strategize their moves.
 
 ### Endgame and Victory
