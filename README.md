@@ -36,7 +36,7 @@ The primary goal is to be the first player to align four of your pieces in a row
 - Players begin by placing their pieces on the 4x4 grid.
 
 ### Mid-Game Strategy
-![Gameplay - Mid-Game](<img width="951" alt="GAME" src="https://github.com/user-attachments/assets/6aaa97e8-5eba-4d39-83d2-38e509f0e011" />
+![Gameplay - Mid-Game](![Screenshot 2025-01-16 132104](https://github.com/user-attachments/assets/6f3aab80-dd78-4f43-91fc-d85f05368536)
 )
 - The board begins to fill as players strategize their moves.
 
