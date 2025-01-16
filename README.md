@@ -33,7 +33,7 @@ The primary goal is to be the first player to align four of your pieces in a row
 
 ### Gameplay - Initial Moves
 ![Gameplay - Early Moves]()
-- Players begin by placing their pieces on the 4x4 grid.
+- Players begin by placing their pieces on the 9x9 grid.
 
 ### Mid-Game Strategy
 ![Gameplay - Mid-Game](![Screenshot 2025-01-16 132104](https://github.com/user-attachments/assets/6f3aab80-dd78-4f43-91fc-d85f05368536)
