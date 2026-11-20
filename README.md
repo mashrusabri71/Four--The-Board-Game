@@ -1,7 +1,7 @@
-# Four Board Game
+# VisionPlay Board Game 
 
 ## Overview
-**Four** is a two-player strategy board game that enhances the classic Connect Four concept by adding a three-dimensional twist. Played on a 4x4x4 grid, it challenges players to think strategically in three dimensions to align four of their pieces in a row.
+**VisionPlay** is a colorblind-accessible two-player strategy board game that enhances the classic Connect Four concept by adding a three-dimensional twist. Played on a 4x4x4 grid, it challenges players to think strategically in three dimensions to align four of their pieces in a row.
 
 ---
 
